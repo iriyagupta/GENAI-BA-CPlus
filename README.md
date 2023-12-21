@@ -1,7 +1,5 @@
 # GENAI-BA-CPlus
-Collection of resources (papers and codes)
-
-## List of Papers and Github link next to it
+Collection of resources (papers and codes) for topic of interests (use cases)
 
 ## Document Summarisation: 
 
